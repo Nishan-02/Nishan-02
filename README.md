@@ -5,11 +5,15 @@
   font-family: 'Times New Roman', serif; 
   font-size: 80px; 
   font-weight: 900; 
-  color: #00C6FF;
+  color: #0029CC;
   text-align: center;
   margin-bottom: 5px;">
   NISHAN
 </h1>
+
+
+
+
 
 
 <!-- TYPING ANIMATION -->
