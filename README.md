@@ -70,7 +70,7 @@ Machine Learning system to analyze behavioral features and accurately predict st
 ---
 
 ### 🕊️ **Avian App**
-A responsive full-stack application with modern UI/UX and optimized backend communication.
+An AI system that predicts weather conditions using bird sounds, leveraging audio feature extraction and deep learning models.
 
 **Tech Used:**  
 <img src="https://skillicons.dev/icons?i=react,java&theme=dark" height="45" />
