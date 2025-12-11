@@ -53,7 +53,7 @@ I am a **Full Stack & Machine Learning Engineer** passionate about building mode
 <h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,python,java,c,mongodb,postgresql,html,css,js,git,github,docker,pytorch,tensorflow,sklearn,postman,latex,androidstudio,rstudio,excel,powerbi&theme=dark&perline=10" height="65"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,python,java,c,mongodb,postgresql,html,css,js,git,github,docker,pytorch,tensorflow,sklearn,postman,latex,androidstudio,rstudio,excel,powerbi&theme=dark&perline=10" height="150"/>
 </p>
 
 ---
