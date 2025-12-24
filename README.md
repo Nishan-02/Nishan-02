@@ -56,36 +56,7 @@ I am a **Full Stack & Machine Learning Engineer** passionate about building mode
   <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,python,java,c,mongodb,postgresql,html,css,js,git,github,docker,pytorch,tensorflow,sklearn,postman,latex,androidstudio,rstudio,excel,powerbi&theme=dark&perline=10" height="150"/>
 </p>
 
----
 
-<!-- FEATURED PROJECTS -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-### 🧠 **Neuro-Behavioral Stress Prediction**
-Machine Learning system to analyze behavioral features and accurately predict stress levels.
-
-**Tech Used:**  
-<img src="https://skillicons.dev/icons?i=python,sklearn&theme=dark" height="45" />
-
----
-
-### 🕊️ **Avian App**
-An AI system that predicts weather conditions using bird sounds, leveraging audio feature extraction and deep learning models.
-
-**Tech Used:**  
-<img src="https://skillicons.dev/icons?i=react,java&theme=dark" height="45" />
-
----
-
-<details>
-  <summary><h3>🔽 View More Projects</h3></summary>
-  <br/>
-  • Weather forecasting using GRU, RNN, LSTM  
-  • AvianWeatherNet – Bird Audio Classification for Weather Prediction  
-  • Stock Market Anomaly Detection using Autoencoders  
-</details>
-
----
 
 <!-- GITHUB STATS -->
 <h2 align="center">📊 GitHub Analytics</h2>
